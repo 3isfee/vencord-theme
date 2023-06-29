@@ -39,6 +39,12 @@
   --channel-text-selected: #fff; /* Selected channel text color, CV default is #fff */
   --muted-color: rgba(255, 255, 255, 0.1); /*Muted channel color  [default: rgba(255,255,255,0.1);]*/
   --text-color: #f8de7e;
+  --text-normal: var(--text-color);
+  --text-muted: var(--text-color);
+  --header-primary: var(--text-color);
+  --header-secondary: var(--text-color);
+  --channels-default:var(--text-color);
+  --interactive-normal: var(--text-color);
 
   /*
     Server Listing Width
