@@ -35,6 +35,9 @@
   --home-icon-image-zoom: 100%;
   --text-normal: #f8de7e;
   --text-muted: #f9e497;
+  --channel-color: #f9e497; /*Read Server channel color  [default: rgba(255,255,255,0.3);]*/
+  --channel-text-selected: #fff; /* Selected channel text color, CV default is #fff */
+  --muted-color: rgba(255, 255, 255, 0.1); /*Muted channel color  [default: rgba(255,255,255,0.1);]*/
 
   /*
     Server Listing Width
